@@ -439,14 +439,13 @@ right:82%;
  .learn-arrow{
     width: 3vh;
     height: 3vh;
-    
-   
+    transition: margin,20s;
     
  }
  .learn-arrow:hover{
     position: relative;
     left: 2vh;
-    transition: margin,20s;
+
  }
 .learn-container{
     display: flex;
